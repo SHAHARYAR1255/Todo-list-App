@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 TO INITIALIZE FIREBASE :
-### 'firebase init
+### `firebase init`
 TO DEPLOY 
-### 'firebase deploy'
+### `firebase deploy`
 In the project directory, you can run:
 
 ### `npm start`
